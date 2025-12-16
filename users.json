@@ -1,0 +1,16 @@
+[
+    {
+        "id": "693503be3331a",
+        "name": "Blackclap clothing",
+        "email": "blackclapclothing@gmail.com",
+        "password": "$2y$10$couZy4EWKNopgXcLd9QvDOzPoqVAXlACzUQ2hc8rA.37R38.1ZDWa",
+        "registration_date": "2025-12-15 08:34:06"
+    },
+    {
+        "id": "1234567890987",
+        "name": "Neha Rajbanshi",
+        "email": "neharajbanshi100@gmail.com",
+        "password": "$2y$10$8oJiOyfxsjZm8RHy44a0Du1ctiMFGG5REjhfWpMpk5fr9cJmO7enG",
+        "registration_date": "2025-12-16 08:25:22"
+    }
+]
